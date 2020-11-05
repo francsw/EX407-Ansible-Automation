@@ -2488,3 +2488,15 @@ Minimum number of days between password change          : 0
 Maximum number of days between password change          : 99999
 Number of days of warning before password expires       : 7
 ```
+
+### Software packages and repositories
+
+### Services
+
+### File Systems
+
+### Storage Devices
+
+### File content
+
+### Users and groups
