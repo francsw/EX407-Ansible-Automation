@@ -68,7 +68,7 @@ Red Hat Certified Specialist in Ansible Automation (EX407) Preparation Course
     - [Scheduled Tasks: Cron](#scheduled-tasks-cron)
     - [Scheduled Tasks: `at`](#scheduled-tasks-at)
     - [Security](#security)
-    - [Software packages and repositories] (#Software packages and repositories)
+    - [Software packages and repositories](#Software packages and repositories)
 
 ## Understanding Core Components of Ansible
 ### Understanding Core Components of Ansible Part 1
@@ -2491,6 +2491,7 @@ Number of days of warning before password expires       : 7
 ```
 
 ### Software packages and repositories
+- abc
 
 ### Services
 
