@@ -68,7 +68,12 @@ Red Hat Certified Specialist in Ansible Automation (EX407) Preparation Course
     - [Scheduled Tasks: Cron](#scheduled-tasks-cron)
     - [Scheduled Tasks: `at`](#scheduled-tasks-at)
     - [Security](#security)
-    - [Software packages and repositories](#Software packages and repositories)
+    - [Software packages and repositories](#software-packages-and-repositories)
+    - [Services](#services)
+    - [File Systems](#file-systems)
+    - [Storage Devices](#storage-devices)
+    - [File content](#file-content)
+    - [Users and groups](#users-and-groups)
 
 ## Understanding Core Components of Ansible
 ### Understanding Core Components of Ansible Part 1
